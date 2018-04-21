@@ -1,1 +1,1 @@
-Hello world
+Esto es un archivo de prueba
